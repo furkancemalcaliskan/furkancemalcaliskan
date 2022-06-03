@@ -1,3 +1,4 @@
+![Screenshot](dejkoveci.png)
 <h1 align="center">Hi there👋, I'm Furkan "dejkoveci" Çalışkan.</h1>
 <h3 align="center">This is my workspace, so you can find what i'm doing.</h3>
 
