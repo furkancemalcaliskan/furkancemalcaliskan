@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejkoveci&label=Profile%20views&color=0e75b6&style=flat" alt="dejkoveci" /> </p>
 
-- 🌱 I’m currently learning **Embedded C**
+- 🌱 I’m currently learning **Swift, Kotlin and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejkoveci?tab=repositories](https://github.com/dejkoveci?tab=repositories)
 
