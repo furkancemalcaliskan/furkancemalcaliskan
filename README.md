@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dejkoveci&show_icons=true&locale=en&&title_color=6ba3f8&text_color=cad1d8&icon_color=6ba3f8&bg_color=0e1116&hide_border=true" alt="dejkoveci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejkoveci&background=0e1116&stroke=cad1d8&ring=6ba3f8&fire=6ba3f8&currStreakNum=cad1d8&sideNums=cad1d8&currStreakLabel=6ba3f8&sideLabels=6ba3f8&dates=cad1d8&hide_border=true" alt="dejkoveci" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejkoveci&bg_color=0e1116&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
