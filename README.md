@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejkoveci?tab=repositories](https://github.com/dejkoveci?tab=repositories)
 
-- 📫 How to reach me **furkanc.caliskan@icloud.com**
+- 📫 How to reach me **furkanc.caliskan@icloud.com** / **furkancemalcaliskan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
