@@ -1,5 +1,8 @@
+<h1 align="center">﷽</h1>
+
 ![Screenshot](dejkoveci.png)
-<h1 align="center">Hi there👋, I'm Furkan "dejkoveci" Çalışkan.</h1>
+
+<h1 align="center">I'm Furkan "dejkoveci" Çalışkan.</h1>
 <h3 align="center">This is my workspace, so you can find what i'm doing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejkoveci&label=Profile%20views&color=0e75b6&style=flat" alt="dejkoveci" /> </p>
@@ -21,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dejkoveci&show_icons=true&locale=en&&title_color=0242b8&text_color=6ba3f8&icon_color=0242b8&bg_color=00000000&hide_border=true" alt="dejkoveci" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejkoveci&background=00000000&stroke=6ba3f8&ring=ffaf02&fire=fa7b05&currStreakNum=fa7b05&sideNums=6ba3f8&currStreakLabel=ffaf02&sideLabels=0242b8&dates=6ba3f8&hide_border=true" alt="dejkoveci" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejkoveci&background=00000000&stroke=6ba3f8&ring=ffaf02&fire=ffaf02&currStreakNum=fa7b05&sideNums=6ba3f8&currStreakLabel=ffaf02&sideLabels=0242b8&dates=6ba3f8&hide_border=true" alt="dejkoveci" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejkoveci&bg_color=00000000&layout=compact&text_color=6ba3f8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
