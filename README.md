@@ -1,4 +1,4 @@
-<h5 align="center">بســــــــــمِ اﷲِ الرَّحمن الرَّحيم</h5>
+<h5 align="center">بســــــــــمِ ﷲِ الرَّحمن الرَّحيم</h5>
 
 ![Screenshot](dejkoveci.png)
 
