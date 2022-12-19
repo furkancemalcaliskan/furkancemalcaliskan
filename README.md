@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dejkoveci&show_icons=true&locale=en&&title_color=0242b8&text_color=6ba3f8&icon_color=0242b8&bg_color=00000000&hide_border=true" alt="dejkoveci" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejkoveci&background=00000000&stroke=6ba3f8&ring=ffaf02&fire=ffaf02&currStreakNum=fa7b05&sideNums=6ba3f8&currStreakLabel=ffaf02&sideLabels=0242b8&dates=6ba3f8&hide_border=true" alt="dejkoveci" /></p>
+
+> "...and say, 'My Lord, increase me in knowledge.'"
+Al-Quran 20:114
