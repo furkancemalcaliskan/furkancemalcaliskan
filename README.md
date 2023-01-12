@@ -7,11 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejkoveci&label=Profile%20views&color=0e75b6&style=flat" alt="dejkoveci" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dejkoveci?tab=repositories](https://github.com/dejkoveci?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/dejkoveci?tab=repositories](https://github.com/dejkoveci?tab=repositories)
 
-- 📫 How to reach me **furkanc.caliskan@icloud.com** / **furkancemalcaliskan@gmail.com**
+📫 Contact: 
+  - Personal: **furkanc.caliskan@icloud.com** / **furkancemalcaliskan@gmail.com**
+  - Corporate: **furkan.cemal.caliskan@enoca.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
