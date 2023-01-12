@@ -13,7 +13,6 @@
 
 📫 Contact: 
   - Personal: **furkanc.caliskan@icloud.com** / **furkancemalcaliskan@gmail.com**
-  - Corporate: **furkan.cemal.caliskan@enoca.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
