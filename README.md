@@ -1,6 +1,6 @@
 <h5 align="center">بســــــــــمِ ﷲِ الرَّحمن الرَّحيم</h5>
 
-![Screenshot](dejkoveci_new.png)
+![Screenshot](dejkoveci.png)
 
 <h1 align="center">I'm Furkan "dejkoveci" Çalışkan.</h1>
 <h3 align="center">This is my workspace, so you can find what i'm doing.</h3>
