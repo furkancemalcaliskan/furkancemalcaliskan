@@ -2,7 +2,7 @@
 
 ![Screenshot](dejkoveci_bg.png)
 
-<h1 align="center">I'm Furkan "dejkoveci" Çalışkan.</h1>
+<h1 align="center">I'm Furkan Cemal Çalışkan.</h1>
 <h3 align="center">This is my workspace, so you can find what i'm doing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejkoveci&label=Profile%20views&color=0e75b6&style=flat" alt="dejkoveci" /> </p>
