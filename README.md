@@ -36,8 +36,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkancemalcaliskan&background=00000000&stroke=6ba3f8&ring=ffaf02&fire=ffaf02&currStreakNum=fa7b05&sideNums=6ba3f8&currStreakLabel=ffaf02&sideLabels=0242b8&dates=6ba3f8&hide_border=true" alt="furkancemalcaliskan" /></p>
-
 <h5 align="left"><b>"وَقُل رَّبِّ زِدْنِي عِلْمًا"<b></h5>
 <h5 align="left"><i>(...and say, 'My Lord, increase me in knowledge.')<i></h5>
 <h5 align="left"><i>Al-Quran 20:114<i></h5>
